@@ -17,4 +17,8 @@ The intention is to:
   - Provides fast, interpretable insights without requiring repeated model training.  
 
 ## Goal  
+<<<<<<< HEAD
 By working through both categories, this project aims to build a deeper understanding of when and why to use a particular feature selection technique, and the trade-offs involved. 
+=======
+By working through both categories, this project aims to build a deeper understanding of when and why to use a particular feature selection technique, and the trade-offs involved. 
+>>>>>>> 70f53ab0c46fbfc6a422ecffa088cb1793832144
